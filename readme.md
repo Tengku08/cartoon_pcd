@@ -14,3 +14,5 @@ How do I get started?
 
 Where can I get more help, if I need it?
 make a pull request i will reply
+
+Love tengku muhammad risky
